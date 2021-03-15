@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Siddharth Deore
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=siddharthdeore&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthdeore&show_icons=true&theme=radical)
 
 <!--
 **siddharthdeore/siddharthdeore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
