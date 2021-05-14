@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Siddharth Deore
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthdeore&show_icons=true&theme=radical)
 
-<!--
 **siddharthdeore/siddharthdeore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <!-- 
