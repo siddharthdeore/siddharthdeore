@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Siddharth Deore
+### Hi there 👋, I'm Siddharth
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthdeore&show_icons=true&theme=radical)
