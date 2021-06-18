@@ -7,7 +7,7 @@ Space and Astronautical Engineer with a strong background in design, mathematica
 
 ## Publications
 1.   S. N. Deore, F. Santoni, F. Piergentili, and P. Marzioli. Attitude control of a fast retargeting agile nanosatellite usingNeural Network based steering for Variable Speed Control Moment Gyroscopes.  Number June, Saint Petersburg,Russia, 2021. International Astronautical Federation (IAF)
-2.  S. N. Deore, F. Santoni, F. Piergentili, and P. Marzioli. Design and Manufacturing of Hardware in Loop simulationtestbed equipped with Variable Speed Control Moment Gyroscopes Siddharth Nimbajirao Deore.  Number June,Petersburg, St Federation, Russian, 2021
+2.  S. N. Deore, F. Santoni, F. Piergentili, and P. Marzioli. Design and Manufacturing of Hardware in Loop simulationtestbed equipped with Variable Speed Control Moment Gyroscopes Siddharth Nimbajirao Deore.  Number June,Petersburg, St Federation, Russian, 2021. International Astronautical Federation (IAF)
 
 
 <!--
