@@ -1,8 +1,5 @@
-### Hi there 👋, I'm Siddharth
-Space and Astronautical Engineer with a strong background in design, mathemati-
-cal modeling, simulation, and control of Space and Ground Robotic system. Expe-
-rtise development of cross platform 3D simulation, visualization and GUI tools.
-Hands-on experience with embedded systems and firmware development.
+### Hi there 👋, I'm Sid
+Space and Astronautical Engineer with a strong background in design, mathematical modeling, simulation, and control of Space and Ground Robotic system. Expertise development of cross platform 3D simulation, visualization and GUI tools. Hands-on experience with embedded systems and firmware development.
 
 <!--
 ## Publications
